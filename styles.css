@@ -1,0 +1,36 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: beige;
+}
+
+*{
+    color: rgb(70, 12, 12);
+}
+
+h1{
+    text-align: center;
+    color: rgb(70, 12, 12);
+}
+
+.recipes{
+    font-size: large;
+}
+
+.recipes li{
+    margin-bottom: 10px;
+    color: rgb(70, 12, 12);
+}
+
+.imagen{
+    text-align: center;
+}
+
+.imagen img{
+    width: 650px;
+    height: auto;
+}
+
+.home {
+    font-size: 20px;
+    text-align: right;
+}
